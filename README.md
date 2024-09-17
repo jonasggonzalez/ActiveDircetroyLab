@@ -1,11 +1,8 @@
 <h1>Acitve Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
